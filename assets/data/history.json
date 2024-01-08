@@ -1,0 +1,17 @@
+[
+    {
+      "date": "2023-01-15",
+      "event": "Oil Change",
+      "details": "Changed engine oil and oil filter."
+    },
+    {
+      "date": "2023-03-05",
+      "event": "Tire Rotation",
+      "details": "Rotated all four tires for even wear."
+    },
+    {
+      "date": "2023-05-20",
+      "event": "Brake Inspection",
+      "details": "Inspected brake pads and discs for wear and tear."
+    }
+  ]
