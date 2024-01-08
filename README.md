@@ -1,8 +1,10 @@
 ## Build and Run
+Ensure you have Qt Creator installed
 ```
 git clone https://github.com/ayush110/TakeHomePart2.git
 cd TakeHomePart2
 mkdir build && cd build
+cmake -DCMAKE_PREFIX_PATH=/path/to/qt-static ..
 cmake --build . --config Release
 ./TakeHomePart2
 ```
